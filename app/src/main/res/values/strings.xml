@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Exercise4</string>
+    <string name="lblSelectDOB">Select DOB : </string>
+    <string name="txtSelectDOB">Select DOB</string>
+    <string name="lblAge">Age : </string>
+    <string name="lblAgeAns">Select Your DOB</string>
+    <string name="lblminBasicSaving">Min Basic Saving : </string>
+    <string name="lblInvestment">Investment : </string>
+    <string name="btnOK">OK</string>
+    <string name="btnReset">Reset</string>
+    <string name="txtMinBasicSaving">Min Basic Saving(RM)</string>
+    <string name="txtInvestment">Investment 30%(RM)</string>
+</resources>
